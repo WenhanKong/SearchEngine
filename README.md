@@ -1,8 +1,8 @@
--# SearchEngine
- -Based on mysql and java dynamic web project. Lab for ICS121
- -
- -This projects contains 37497 web files that downloaded previously in WEBPAGES_RAW_ALL; Based on index(tf, tfidf) stored in MySQL, it is easy to perform ranked information retrival.
- -
+SearchEngine
+Based on mysql and java dynamic web project. Lab for ICS121
+
+This projects contains 37497 web files that downloaded previously in WEBPAGES_RAW_ALL; Based on index(tf, tfidf) stored in MySQL, it is easy to perform ranked information retrival.
+
  -How to use this engine?
  -0. make sure you have python2.7, java, apache-tomcat, and mysql installed.
  -1. shell> mysql -u mytestuser -p < create_searchdb.sql
